@@ -1,4 +1,4 @@
-export default class CL_Control{
+export default class CL_Mayores{
     constructor(){
         this.cntPersonas = 0;
         this.cntPersonasMayores = 0;
